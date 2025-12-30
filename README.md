@@ -12,4 +12,4 @@ Create a model that classify the news headlines into 4 given categories
 - Model trained on Google Colab and saved for easy use
 
 # Model link
-[Download trained ber model](https://drive.google.com/drive/folders/1mxcAPudsP_qpfbpC-xw5OAcIBonSZYup?usp=drive_link)
+[Download trained bert model](https://drive.google.com/drive/folders/1mxcAPudsP_qpfbpC-xw5OAcIBonSZYup?usp=drive_link)
